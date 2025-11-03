@@ -1,7 +1,7 @@
 Frequently Asked Questions
 
-Q1: What is AetherLink OS?
-AetherLink OS is a decentralized operating layer for private crypto payments, enabling instant offline-first transactions.
+Q1: What is AetherLink?
+AetherLink is a decentralized operating layer for private crypto payments, enabling instant offline-first transactions.
 
 Q2: How is it different from other privacy coins?
 Unlike traditional privacy coins, AetherLink focuses on real-world usability — tap-to-pay, offline transactions, and a verifiable consensus layer.
