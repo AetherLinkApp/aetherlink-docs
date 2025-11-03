@@ -1,4 +1,4 @@
-AetherLink OS Architecture
+AetherLink Architecture
 
 AetherLink combines three modular technologies designed for privacy, reliability, and synchronization:
 
