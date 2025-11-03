@@ -1,0 +1,41 @@
+{
+  "name": "AetherLink OS",
+  "logo": "/logo.png",
+  "colors": {
+    "primary": "#4a9eff",
+    "background": "#0b0b0b",
+    "sidebar": "#111111",
+    "text": "#ffffff"
+  },
+  "navigation": [
+    {
+      "group": "Overview",
+      "pages": ["index", "summary"]
+    },
+    {
+      "group": "Concept",
+      "pages": ["vision", "technology"]
+    },
+    {
+      "group": "Economy",
+      "pages": ["tokenomics"]
+    },
+    {
+      "group": "Community",
+      "pages": ["faq"]
+    }
+  ],
+  "footer": {
+    "links": [
+      {
+        "text": "Website",
+        "link": "https://aetherlinkapp.online/"
+      },
+      {
+        "text": "Follow @AetherLinkApp",
+        "link": "https://x.com/AetherLinkApp"
+      }
+    ],
+    "copyright": "© 2025 AetherLink OS. All rights reserved."
+  }
+}
