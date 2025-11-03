@@ -1,6 +1,6 @@
 The $AETH Token
 
-$AETH serves as the fuel and governance layer of the AetherLink OS ecosystem.
+$AETH serves as the fuel and governance layer of the AetherLink ecosystem.
 
 Function	
 Transaction Gas:      	Powers validation and settlement of AetherLink transactions.
