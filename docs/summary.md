@@ -1,7 +1,7 @@
-AetherLink OS — Summary Snapshot
+AetherLink — Summary Snapshot
 
 
-Name:	          AetherLink OS
+Name:	          AetherLink
 Ticker:	        $AETH
 Core Idea:	    Offline-first, zero-knowledge tap-to-pay protocol
 Tech Stack:	    ZK-Aura + LumenMesh + A402 Signature Layer
